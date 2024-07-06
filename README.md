@@ -168,7 +168,9 @@ sequenceDiagram
 - Filtros
     - cadastre produtos com preços diferentes
     - aplique um filtro de preço, assim: (price > 5000 and price < 8000)
-
+ 
+# FEITO! :white_check_mark:
+    
 ## Preparar ambiente
 
 Vamos utilizar Pyenv + Poetry, link de como preparar o ambiente abaixo:
